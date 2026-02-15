@@ -26,7 +26,7 @@ navLinks.querySelectorAll('a').forEach(link => {
 });
 
 // ============= Typing Animation =============
-const roles = ['Software Developer', 'Data Analyst', 'Problem Solver', 'Frontend Web Developer'];
+const roles = ['Data Analyst','Data Scientist', 'Problem Solver'];
 const typingText = document.getElementById('typing-text');
 let roleIndex = 0;
 let charIndex = 0;
